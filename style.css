@@ -1,0 +1,260 @@
+body{
+   background-color: #f7f7f7; 
+/*    height: 5000px;*/
+}
+header{
+    background-color: #f7f7f7;
+}
+.container{
+    width: 70%;
+    min-height: 100px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+}
+.container img{
+    position: absolute;
+    top: 22px;
+    left: 60px;
+}
+.money{
+    position: absolute;
+    top: 22px;
+    right: 80px;
+    height: 35px;
+    width: 120px;
+}
+.incl{
+    font-size: 11px;
+    color: #b0b0b0;
+}
+nav{
+    width: 70%;
+    margin: 0 auto;
+    color: #b0b0b0;
+    height: 100%;
+    position: relative;
+    box-shadow: none;
+}
+.home{
+    color: #6d6d6d;
+}
+.nav{
+    width: 100%;
+}
+nav ul li{
+    margin-left: 20px;
+}
+nav ul{
+    margin-left: 50px;
+    width: 500px;
+    float: left;
+}
+.search{
+    width: 100px;
+    float: right;
+    width: 65px;
+    margin-right: 5%;
+}
+.clearfix{
+    clear: both;
+}
+.table{
+    height: 600px;
+    background-image: url(images/fullscreen_image.jpg);
+    background-size:cover;
+    color: white;
+}
+.tasty{
+    position: relative;
+    color: white;
+}
+.tasty::after{
+    position: absolute;
+    left: 455px;
+    top: 0;    
+}
+.tasty::before{
+    position: absolute;
+    right: 455px; 
+}
+.tasty::after, .tasty::before{
+    content:'';
+    margin: 10px;
+    width: 165px;
+    height: 1px;
+    border-bottom: solid 2px white;
+}
+.NY{
+    position: relative;
+    color: white;
+}
+.NY::after{
+    position: absolute;
+    left: 400px;
+    top: 0;    
+}
+.NY::before{
+    position: absolute;
+    right: 400px; 
+}
+
+.NY::after, .NY::before{
+    content:'';
+    margin-top: 10px;
+    width: 235px;
+    height: 1px;
+    border-bottom: solid 2px white;
+}
+.Freshly{
+    font-style: italic;
+    color:#b0b0b0;
+}
+.product p{
+    color:#b0b0b0;
+}
+
+.template{
+    margin: 0 auto;
+}
+.m0a{
+    margin: 0 auto;
+}
+.btn{
+    color:white;
+    background-color: #b8c267;
+    height: 40px;
+    width: 110px;
+    padding: 3px 5px 5px 5px;
+}
+.w85p{
+    width: 85%;
+}
+figure{
+    margin: 0;
+}
+.product{
+    box-sizing: border-box !important;
+    padding: 15px 30px 10px 30px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.fc{
+    background-color:#fcfcfc;
+    padding: 0 35px;
+    padding-bottom: 60px;
+}
+.product img{
+    width: 100%;
+} 
+.marneg{
+    margin: -100px auto 0;
+    padding-top: 80px;
+}
+.f7{
+    background-color: #f7f7f7;
+}
+.w100p{
+    width: 100%;
+}
+.circles{
+    width: 80px;
+    margin: -15px auto;
+}
+.circle{
+    background-color: #f7f7f7;
+    width: 15px;
+    height: 15px;
+    float: left;
+    margin: 0 5px;   
+}
+.circle:first-child{
+    background-color: #b8c267;
+}
+.h60{
+    height: 60px;
+}
+.float_left{
+    float: left;
+}
+.w80p{
+    width: 80%;
+}
+.prop img{
+    display: block;
+    height: 45px;
+    margin: 4px 0px;
+    padding: 5px 20px 5px 15px;
+}
+.sign{
+    font-size: 10px;
+}
+.hundren_pc{
+    color: #b8c267;
+    font-size: 22px;
+}
+
+.cont{
+    margin: 0 auto;
+    width: 140px;
+}
+.cont img{
+    margin-right: 25px;
+    display: block;
+    height: 35px;
+    margin-top: 9px;
+}
+.p0{
+    padding: 0px !important;
+}
+.bord{
+    border-left: dotted 2px #f7f7f7;
+    border-right: dotted 2px #f7f7f7;
+}
+.mt30{
+   margin-top: 30px; 
+}
+.h90{
+    height: 90px;
+}
+.our-cafebg{
+    height: 400px;
+    width: 100%;
+    background-image: url(images/block_image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.arrow{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
